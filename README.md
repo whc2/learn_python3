@@ -10,3 +10,5 @@ include my learning scripts. Keep learning!
 # tutorls
 [廖雪峰Python教程](https://www.liaoxuefeng.com/wiki/1016959663602400)
 
+[python style guide](https://python-guide.gitbooks.io/python-style-guide/content/)
+
