@@ -13,3 +13,4 @@ include my learning scripts. Keep learning!
 
 [python style guide](https://python-guide.gitbooks.io/python-style-guide/content/)
 
+[Python黑魔法手册](http://magic.iswbm.com/zh/latest/)
